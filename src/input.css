@@ -1,0 +1,14 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+@import "tailwindcss";
+
+@theme{
+    --color-primary: #f3c614;
+    --color-secondary: #353535;
+    --font-primary: 'Roboto', sans-serif;
+}
+@layer{
+    .section-container{
+    @apply max-w-[1440px] container mx-auto px-4 py-10;
+    
+}}
