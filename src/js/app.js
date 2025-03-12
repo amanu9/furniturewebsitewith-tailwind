@@ -1,52 +1,52 @@
 const testimonials = [
     {
-        name: "Viezh Robert",
-        location: "Warsaw, Poland",
+        name: "Aman",
+        location: "Ethiopia, AA",
         rating: 4.5,
-        comment: "Wow... I am very happy to use this VPN, it turned out to be more than my expectations and so far there have been no problems. LaslesVPN always the best",
-        image: "./images/user1.png"
+        comment: "Wow... I am very happy to use your product ",
+         image: "./images/userr.jpg"
     },
     {
-        name: "Yessica Christy",
-        location: "Shanxi, China",
+        name: "Abel",
+        location: "Ethiopia,Adama",
         rating: 4.5,
-        comment: "I like it because I like to travel far and still can connect with high speed.",
-        image: "./images/user2.png"
+        comment: "I like it because I get my package on time.",
+        image: "./images/userr.jpg"
     },
     {
-        name: "Kim Young Jou",
-        location: "Seoul, South Korea",
+        name: "Rahel",
+        location: "Ethiopia, Hawassa",
         rating: 4.5,
-        comment: "This is very unusual for my business that currently requires a virtual private network that has high security.",
-        image: "./images/user3.png"
+        comment: "I get latest product from you thank a lot .",
+        image: "./images/userr.jpg"
     },
     {
         name: "Michael Chen",
-        location: "Singapore",
+        location: "keniya",
         rating: 5.0,
-        comment: "The best VPN service I've ever used. Perfect for remote work and accessing region-locked content. Highly recommended!",
-        image: "./images/user1.png"
+        comment: "This was very nice place in Ethiopia to get such kind of product!",
+       image: "./images/userr.jpg"
     },
     {
         name: "Sarah Williams",
         location: "London, UK",
         rating: 4.8,
         comment: "Excellent service with great speeds. I use it daily for both work and streaming. The customer support is outstanding.",
-        image: "./images/user2.png"
+      image: "./images/userr.jpg"
     },
     {
-        name: "Alex Rodriguez",
-        location: "Madrid, Spain",
-        rating: 4.7,
-        comment: "Been using it for 6 months now. The connection is stable and secure. Perfect for my online banking and business needs.",
-        image: "./images/user3.png"
+        name: "Sarah Williams",
+        location: "London, UK",
+        rating: 4.8,
+        comment: "Excellent service with great speeds. I use it daily for both work and streaming. The customer support is outstanding.",
+        image: "./images/userr.jpg"
     },
     {
-        name: "Emma Thompson",
-        location: "Sydney, Australia",
-        rating: 4.9,
-        comment: "Amazing VPN service with fantastic global coverage. Never had any issues with speed or connectivity. Worth every penny!",
-        image: "./images/table.png"
+        name: "Michael Chen",
+        location: "keniya",
+        rating: 5.0,
+        comment: "This was very nice place in Ethiopia to get such kind of product!",
+        image: "./images/userr.jpg"
     }
     // Add more testimonials if needed
 ];
